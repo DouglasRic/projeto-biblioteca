@@ -4,8 +4,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto Integrado do c
 
 ## 👨‍💻 Autor
 
-- **Nome:** Airton Cardoso Marques  
-- **Matrícula:** 2025173475  
+- **Nome:** Douglas Ricardo de Oliveira 
+- **Matrícula:** 2025164380  
 - **Curso:** Ciência de Dados  
 - **Instituição:** Faculdade Anhanguera de São José dos Campos
 
